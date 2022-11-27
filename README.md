@@ -1,5 +1,5 @@
 
-  <img src="https://media1.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e47q9c8k3i7jiu9x6e33rmp8ldsefctyjdq9q6ite6y&rid=giphy.gif&ct=g" height="100"/> Hi, I’m  @IyanPerez <img src= "https://user-images.githubusercontent.com/116182389/204132941-9858587e-7d05-47cb-9315-a4501b09ed64.png" height=100px/>
+  <img src="https://media1.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e47q9c8k3i7jiu9x6e33rmp8ldsefctyjdq9q6ite6y&rid=giphy.gif&ct=g" height="100"/> Hi, I’m  @IyanPerez <img src="https://user-images.githubusercontent.com/116182389/204136908-f2f2f1e2-1b65-4f90-90d9-939e9d4d532e.png" height=100px/>
 
   - 👀 I’m interested in learning new technologies and creating easy  algorythms to solve difficult problems :)
   - 🌱 I’m currently learning full-stack development at Factoría F5
@@ -18,3 +18,5 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50"/> </a> 
   </p>
+
+
