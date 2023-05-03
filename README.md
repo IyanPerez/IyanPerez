@@ -5,7 +5,6 @@
  ![IyanPerez Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IyanPerez&theme=gotham&show_icons=true&hide_border=false&layout=compact) 
 
   - 👀 I’m interested in learning new technologies and creating easy  algorythms to solve difficult problems :)
-  - 🌱 I’m currently learning full-stack development at Factoría F5
   - 📫 How to reach me iyanperezmarcos@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
